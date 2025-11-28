@@ -15,7 +15,7 @@ from collections import namedtuple
 
 # ===================== 用户配置区域 =====================
 rar_exe_path = r"C:\Program File\WinRAR\rar.exe"
-target_dir = r"G:\agw"
+target_dir = r"C:\Users\chru\Desktop\1"
 delete_patterns = ["Saved", "Intermediate", "Build", "Binaries", ".vs", ".svn", "DerivedDataCache",
                    "Read me.rar", "更多免费软件素材1.jpg",
                    "首页-虚幻4资源站-淘宝网.url", "2d素材库-传奇素材包-素材免费下载.url", "2d素材库素材免费下载.url", 
